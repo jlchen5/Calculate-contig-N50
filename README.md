@@ -6,4 +6,4 @@ N50是指一个基因组所有的contig，按照长度从大到小排列，一�
 好坏的条件之一。
 
 ## License
-This project is available under the MIT License.
+This project is available under the [MIT License](https://github.com/jlchen5/Calculate-contig-N50/blob/main/LICENSE).
